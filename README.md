@@ -1,3 +1,6 @@
 # Zomato_clone
  
-hello there
+hello theregit
+# Naming
+## BEM(Block Element Modifier) Approach
+ 
